@@ -1,5 +1,5 @@
 ```mermaid
-filmeserieDiagram
+erDiagram
     Filme_e_Serie {
         id 	STRING
         nome STRING
